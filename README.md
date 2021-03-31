@@ -13,6 +13,8 @@ The default prefix for the bot is the % sign. This will be able to be changed in
 %connect, %join - Connect the bot to an available voice channel or the voice channel that the user is in
 
 %disconnect, %leave - Disconnect the bot from the current voice channel
+
+%help - Sends the user a DM with all the commands for the bot
 ```
 
 ### More commands will be added in a future update
