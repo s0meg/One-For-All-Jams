@@ -8,13 +8,13 @@ This is a music bot created for Discord using the discord.py library and a Laval
 Here, you will find the current commands and the help page for the One For All Jams Music Bot.
 
 ```
-The default prefix for the bot is the * sign. This will be able to be changed in a future update
+The default prefix for the bot is the + sign. This will be able to be changed in a future update
 
-%connect, %join - Connect the bot to an available voice channel or the voice channel that the user is in
++connect, +join - Connect the bot to an available voice channel or the voice channel that the user is in
 
-%disconnect, %leave - Disconnect the bot from the current voice channel
++disconnect, +leave - Disconnect the bot from the current voice channel
 
-%help - Sends the user a DM with all the commands for the bot
++help - Sends the user a message with all the commands for the bot
 ```
 
 ### More commands will be added in a future update
